@@ -17,3 +17,7 @@ Here I have completed the Exploratory Data Analysis to uncover the hidden truth 
 4)	Hypothesis testing:
 5)	Performing Linear regression for income prediction:
 
+# Built With:
+1) Anaconda Environment
+2) Jupyter Notebook
+3) Python libraries
