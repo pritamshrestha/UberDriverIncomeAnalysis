@@ -5,12 +5,12 @@ There is an intense debate about the income of Uber drivers. Many researchers ar
 Here I have completed the Exploratory Data Analysis to uncover the hidden truth about the uber driver income. This project includes the following steps:
 1)	Exploratory Data Analysis:
 
-    a)	Checking the types of data:
-    b)	Dropping irrelevant columns:
-    c)	Renaming the columns:
-    d)	Dropping the duplicate rows:
-    e)	Dropping the missing or null values:
-    f)	Detecting outliers:
+    1)	Checking the types of data:
+    2)	Dropping irrelevant columns:
+    3)	Renaming the columns:
+    4)	Dropping the duplicate rows:
+    5)	Dropping the missing or null values:
+    6)	Detecting outliers:
     
 2)	Data visualization:
 3)	Identifying the relationships between variables:
