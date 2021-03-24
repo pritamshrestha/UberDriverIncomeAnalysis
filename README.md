@@ -1,6 +1,6 @@
 # Uber Driver Income Analysis:
 
-Summary:
+#Summary:
 There is an intense debate about the income of Uber drivers. Many researchers are presenting their analysis and saying that Uber driver makes 3.50 to 10.00 dollars per hours. On the other hand, Uber company claiming that their driver makes more than 70 thousand per year if they work full time. 
 Here I have completed the Exploratory Data Analysis to uncover the hidden truth about the uber driver income. This project includes the following steps:
 1)	Exploratory Data Analysis:
