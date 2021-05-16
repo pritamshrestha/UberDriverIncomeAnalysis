@@ -5,7 +5,7 @@ There is an intense debate about the income of Uber drivers. Many researchers ar
 Here I have completed the Exploratory Data Analysis to uncover the hidden truth about the uber driver income. This project includes the following steps:
 
 
-<img src="image/fraud.png" width="400px" height="300px">
+<img src="image/image.png" width="400px" height="300px">
 
 
 1)	Exploratory Data Analysis:
